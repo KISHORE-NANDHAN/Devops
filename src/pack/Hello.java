@@ -4,6 +4,7 @@ public class Hello {
 	public static void main(String[] args) {
 		// Write your own code
 		System.out.println("malik bhai");
+		System.out.println("love bhabi");
 	}
 
 }
